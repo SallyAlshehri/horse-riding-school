@@ -19,4 +19,4 @@ Technology Stack:
 HTML
 CSS
 JavaScript
-Swiper.js (Limited to Student Testimonials)
+Swiper.js 
